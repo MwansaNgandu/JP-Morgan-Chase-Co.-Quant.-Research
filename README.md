@@ -1,4 +1,4 @@
-# JP Morgan Chase Co. Quant. Research
+# JP Morgan Chase Co. Quantiatative Research
 
 Welcome to my repository for the **JPMorgan Chase & Co. Quantitative Research** program, completed through Forage. This repository showcases my personal approach to each project task and reflects the skills developed in quantitative finance and data analysis. Note that the code here represents my interpretations and methods for each challenge, rather than the official solutions to the program tasks.
 
@@ -21,4 +21,15 @@ This program offered an immersive experience in tasks that quantitative research
 - **Libraries**: NumPy, pandas, and custom-built functions for financial modeling and risk analysis
 
 ## Disclaimer
+
 The code here is developed solely as my interpretation of the tasks and is intended for educational purposes only. It is not a replica of the official solutions provided by JPMorgan Chase & Co.
+
+## Support/Contact
+
+For further inquiries or support, please contact:
+
+- **Email:** mdngandu@gmail.com
+- **LinkedIn:** [Mwansa Ng'andu](https://www.linkedin.com/in/mwansangandu)
+- **GitHub:** [Mwansa Ng'andu](https://github.com/MwansaNgandu)
+
+Feel free to reach out with any questions or for more information about this project.
